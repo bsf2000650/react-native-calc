@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0e0e92b8-8785-48f9-952f-c7d163f7b260"
+      }
+    },
+    "android": {
+      "package": "com.asad1111.calculator"
+    }
+  }
+}
